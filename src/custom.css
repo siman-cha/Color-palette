@@ -1,0 +1,8 @@
+@media screen and (max-width: 768px) {
+    .lock-icon {
+      display: none;
+    }
+    .unlock-icon {
+      display: none;
+    }
+  }
