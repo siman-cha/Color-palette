@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "deploy": "https://github.com/siman-cha/Color-palette.git",
     "dev": "vite",
     "build": "vite build",
     "start": "vite",
