@@ -4,6 +4,7 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  mode: 'jit',
   theme: {
     extend: {
       colors: {
@@ -17,6 +18,7 @@ export default {
       },
     },
   },
+  variants: {},
   plugins: [],
 }
 
